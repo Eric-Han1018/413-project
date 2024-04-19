@@ -1,4 +1,4 @@
-# CSC413 Project: Semantic Segmentation for Self-Driving Cars
+# CSC413: Semantic Segmentation for Self-Driving Cars
 
 In this project, we aim to explore and advance semantic segmentation for self-driving cars using three deep learning models: FCN, U-Net and DeepLab. Our study focuses on adapting and refining these models to enhance their accuracy and efficiency under diverse and challenging conditions, such as varying lighting and complex urban landscapes.
 
