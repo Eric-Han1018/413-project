@@ -15,3 +15,5 @@ Group members:
 Please run our project by clicking the `Copy & Edit` button on the top right.
 
 Alternatively, we also saved the output in `src_code_output.pdf` and the source code in `csc413-project-semantic-segmentation.ipynb`.
+
+**Project Final Report: `project_report.pdf`**
